@@ -6,12 +6,12 @@ En este repositorio se incluyen ejercicios y trabajos prácticados realizados en
 Los tópicos que se tratan son:
 
 * Carga de datasets disponibles en la web.
-* Análisis exploratorio de datos.
-* Análisis de datos de texto: Remoción de stop-words, tokenización, cálculo de matriz TF/IDF.
-* Preprocesamiento de datos.
-* Machine learning: Tareas de predicción a partir de información disponible.
+* Análisis exploratorio y de datos.
+* Preprocesamiento.
+* Análisis y procesamiento de datos de texto.
+* Machine learning.
 
-Se trabaja con las siguientes bibliotecas:
+Se requiere de las siguientes bibliotecas para ejecutar el código:
 
 * `numpy`
 * `pandas`
