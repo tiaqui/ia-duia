@@ -17,7 +17,9 @@ Se trabaja con las siguientes bibliotecas:
 * `pandas`
 * `scikit-learn`
 * `ntlk`
+* `pickle`
 * `openml`
 * `matplotlib`
 * `seaborn`
 * `yellowbrick`
+* `wget`
