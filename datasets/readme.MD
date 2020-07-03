@@ -1,4 +1,4 @@
-## Dataset hosting for the notebooks
+## Dataset hosting for the Jupyter notebooks
 
 In this folder the following datasets are included:
 
